@@ -41,6 +41,10 @@ python3 2fa.py h 1 JBSWY3DPEHPK3PXP log.txt
 
 the h means Hour and the 1 stand for one-hour working.
 
+NOTE : "JBSWY3DPEHPK3PXP" is the test key from : 
+
+https://github.com/pyauth/pyotp
+
 
 Output description:
 
