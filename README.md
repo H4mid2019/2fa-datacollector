@@ -1,15 +1,15 @@
 # 2fa-datacollector
 collect random numbers that will be made by 2FA's you can give it a secret key and also determine how long it can work and collect It's raw idea I'm working on it then I can write a program that predict 2FA cods faster .
 
-Requirement
+<h4>Requirement</h4>
 
 --- based on python3 so you need to install python3 
 --- then install pyotp module by running this command on linux :
-pip3 install pyotp
+<code>pip3 install pyotp</code>
 in windows machine :
 pip install pyotp
 
-Usage instruction:
+<h4>Usage instruction:</h4>
 
 It accepts up to 4 switches :
 the ORDER of SWITCHES is important!!!!
