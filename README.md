@@ -45,7 +45,7 @@ NOTE : "JBSWY3DPEHPK3PXP" is the test key from :
 
 <a href="https://github.com/pyauth/pyotp" target="_blank">https://github.com/pyauth/pyotp</a>
 
-<h1>Output description:<h1>
+<h1>Output description:</h1>
 
 sample output after 1-minute work :
 <pre>
