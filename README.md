@@ -43,7 +43,7 @@ the h means Hour and the 1 stand for one-hour working.
 
 NOTE : "JBSWY3DPEHPK3PXP" is the test key from : 
 
-https://github.com/pyauth/pyotp
+<https://github.com/pyauth/pyotp>
 
 
 Output description:
