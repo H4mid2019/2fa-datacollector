@@ -6,13 +6,13 @@
   <li> based on python3 so you need to install python3 </li>
   <li> then install pyotp module by running this command on linux : </li>
 <p><code style="display:block">pip3 install pyotp</code></p>
-  <p>in windows machine :</p>
+  <p>Or in windows machine :</p>
   <p><code>pip install pyotp</code>
 </ul>
 <h3>Usage instruction:</h3>
 
 <p>It accepts up to 4 switches :</p>
-<p>the ORDER of SWITCHES is important!!!!</p>
+<p>The ORDER of SWITCHES is important!!!!</p>
 <p>&nbsp;Without applying the first switch next number means second but you can use m for Minute and h for Hour so the next parameter it must be a number.
 third parameter if you use m or h switch or the second parameter if you don't use any previous switch stand for the secret key and the last parameter is the output file name also it has an output on the terminal. by default the output file name "totp.txt" .</p>
 
