@@ -43,12 +43,12 @@ the h means Hour and the 1 stand for one-hour working.
 
 NOTE : "JBSWY3DPEHPK3PXP" is the test key from : 
 
-<https://github.com/pyauth/pyotp>
+<a href="https://github.com/pyauth/pyotp" target="_blank">https://github.com/pyauth/pyotp</a>
 
-Output description:
+<h1>Output description:<h1>
 
 sample output after 1-minute work :
-
+<pre>
 total
 Inputs:	2
 ------------------------------------------------------------------------------------------
@@ -87,7 +87,7 @@ Digit	6
 ------------------------------------------------------------------------------------------
 count:1	 number:1
 count:1	 number:7
-
+</pre>
 
 The "Inputs" means total input or total number that received. 
 "count" means the iteration time.
