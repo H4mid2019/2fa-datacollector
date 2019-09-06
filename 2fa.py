@@ -137,6 +137,8 @@ def counter(x):
 banner = """
 ************************   2FA Data Collector   ***************************
 
+                            BY H4mid2019
+
 
         Recording started.....
 """
