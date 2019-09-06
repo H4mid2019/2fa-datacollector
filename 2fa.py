@@ -24,12 +24,12 @@ def first():
         if len(sys.argv) == 1:
             print("PLEASE INSERET THE SECRET KEY")
             reciver(60)
-        elif sys.argv[1] == "m":
+        elif sys.argv[1].lower() == "m":
             argm = int(sys.argv[2])
             secret = sys.argv[3]
             file_name = sys.argv[4]
             reciver(argm*60)
-        elif sys.argv[1] == "h":
+        elif sys.argv[1].lower() == "h":
             argh = int(sys.argv[2])
             secret = sys.argv[3]
             file_name = sys.argv[4]
