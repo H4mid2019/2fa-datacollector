@@ -93,6 +93,3 @@ count:1	 number:7
 <p>"count" means the iteration time.</p>
 <p>"All Digits" mean total number in all places Digit1 to Digit 6. 
 then "Digit1" means in the place of the first digit that numbers with that count iterated, and also for other digits.</p>
-
-
-
