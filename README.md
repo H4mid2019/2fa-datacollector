@@ -45,7 +45,6 @@ NOTE : "JBSWY3DPEHPK3PXP" is the test key from :
 
 <https://github.com/pyauth/pyotp>
 
-
 Output description:
 
 sample output after 1-minute work :
